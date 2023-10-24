@@ -1,2 +1,2 @@
 # PyCG
-20231024
+Computer Graphics using Python
